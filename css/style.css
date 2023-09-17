@@ -109,9 +109,10 @@ section{
     transform: translateX(8px);
 }
 .hero-text a.ctaa{
-    background: #4d9559;
+    background: transparent;
     border: 1px solid white;
     margin-left: 20px;
+    font-family: 'Poppins', sans-serif;
 }
 .hero-text a.ctaa i{
     vertical-align: middle;
